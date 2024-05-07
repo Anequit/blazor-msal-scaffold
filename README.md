@@ -10,3 +10,5 @@ Each commit will be a step in the process.
 ![02_BlazorMauiHybridWithMsalLogin.gif](docs%2F02_BlazorMauiHybridWithMsalLogin.gif)
 
 3. Reading app roles from Entra/Azure and attaching them to a custom user object that can be used throughout the app. Will demonstrate the following roles: `["Weather.View", "Counter.View", "Counter.Click"]`
+
+4. [Docs page](https://learn.microsoft.com/en-us/azure/developer/mobile-apps/azure-mobile-apps/quickstarts/maui/authentication)
